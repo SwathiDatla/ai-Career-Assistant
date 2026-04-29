@@ -1,0 +1,88 @@
+Swathi Datla
+                                                                         +1 (314) 688-1678     |    datlaswathi67@gmail.com|
+                              www.linkedin.com/in/swathi-datla          | https://swathidatla.github.io/Swathi_Datla_Portfolio/  
+
+Objective
+Motivated Master’s graduate in Applied Computer Science with hands-on experience in full-stack web development. Skilled in building responsive, user-friendly web applications using React, Python, and REST APIs. Passionate about creating clean, professional UI experiences and developing complete websites from design to deployment. Seeking a Web Developer role where I can contribute to building a strong digital presence from the ground up.
+
+Education
+Southeast Missouri State University		Cape Girardeau, MO
+Master of Science in Applied Computer Science	                                                        Graduated: December 2025
+GPA 3.70/4.0	                                                                                                                      
+
+Relevant Coursework
+Machine Learning, Deep Learning, Natural Language Processing, Software Engineering, Data Structures, Database Systems, Data Visualization, Python Programming
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript (ES6+), Java, C/C++, SQL
+Frontend: React.js, HTML5, CSS3, Responsive Design
+Backend: Django, FastAPI, REST APIs
+Databases: MySQL, SQLite, MongoDB
+Tools: Git, GitHub, VS Code, Postman
+Concepts: API Integration, UI Design, CRUD Operations, Debugging
+
+Projects 
+TaskFlow – Full-Stack Task Management Application
+Tech Stack: React.js, Django, REST Framework
+•	Designed and developed a full-stack web application with secure user authentication 
+•	Built responsive, mobile-friendly UI using React for a seamless user experience 
+•	Developed RESTful APIs and integrated frontend with backend for real-time data flow 
+•	Implemented CRUD operations for efficient task tracking and management 
+•	Structured backend using Django ORM for scalable and maintainable data handling
+
+AI-Powered Data Processing API
+Tech Stack: FastAPI, Python, OpenAI API, REST APIs, SQLite
+•	Built an end-to-end backend system to process resumes and extract structured data automatically 
+•	Designed RESTful APIs for file upload, validation, and data extraction workflows 
+•	Integrated OpenAI API to analyze resume content and generate structured insights such as skills and experience summaries 
+•	Implemented data storage using SQLite for persistent storage and retrieval 
+•	Focused on transforming unstructured data into meaningful, queryable information
+
+US Pollution Data Processing & Visualization
+Tech Stack: Python, Pandas, Matplotlib, Seaborn
+•	Processed and cleaned large multi-state datasets using Pandas 
+•	Performed data transformation and preprocessing to prepare structured datasets 
+•	Built analysis pipelines to extract trends and insights from raw data 
+•	Created visualizations to support data-driven decision-making
+
+Retail Billing & Inventory Management System 
+Tech Stack: Python, MongoDB, REST APIs, JavaScript
+•	Developed end-to-end billing and inventory system using Python and MongoDB 
+•	Implemented backend logic for product management, tax calculation, and invoice generation 
+•	Designed and tested CRUD operations ensuring data consistency and system reliability 
+•	Automated billing process with input validation and error handling mechanisms 
+•	Improved accuracy and reduced manual processing errors
+
+Chest X-ray Disease Detection System
+TensorFlow, CNN (ResNet50), Python
+•	Built a deep learning model using transfer learning (ResNet50) for medical image classification 
+•	Implemented preprocessing pipelines and data augmentation for improved generalization 
+•	Applied Grad-CAM visualization for interpretability of model predictions 
+•	Evaluated model performance using precision, recall, and confusion matrix
+
+	
+RESEARCH PROJECT
+Mixed Methods Research Project: Evaluating Deep Reinforcement Learning in Healthcare
+•	Applied Mixed Methods Research (MMR) to evaluate complex healthcare AI technologies, including Deep Reinforcement Learning (DRL)
+•	Integrated quantitative data (ICU length of stay, mortality rates) with qualitative clinician insights on interpretability, trust and usability.
+•	Designed and executed an Explanatory Sequential Design (QUAN-qual), created joint displays, performed thematic analysis and derived meta-inferences linking numerical and narrative findings.
+•	Overcame challenges in bias reduction through structured coding, independent interview reflection, and literature review, ensuring rigorous and valid results.
+Tools used: Overleaf (Latex) for research paper formatting and documentation
+
+Internships
+Software Developer Intern
+Hyderabad, India                                                                                                         July 2023 – December 2023
+
+•	Assisted in developing and maintaining backend services using Python and basic Node.js for web applications 
+•	Supported the implementation of RESTful APIs for data processing and application functionality 
+•	Participated in debugging, troubleshooting, and fixing application issues to improve system stability 
+•	Collaborated with team members during requirement discussions and feature development tasks 
+•	Performed unit testing and validated application behavior to ensure quality and performance 
+•	Documented technical issues, solutions, and workflow processes for better team communication 
+•	Gained hands-on exposure to Software Development Life Cycle (SDLC) and Agile development practices 
+
+Certifications
+Python Full Stack Developer Certification (India)                                                                              June-2023
+
+Languages
+Languages: English (Fluent), Telugu (Native), Hindi (Conversational)
